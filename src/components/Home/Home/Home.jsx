@@ -10,6 +10,9 @@ import b2 from './assests/b2.png';
 import b3 from './assests/b3.png';
 import b4 from './assests/b4.png';
 import a2 from './assests/boat1.png';
+import a5 from './assests/boat11.jpg';
+import a6 from './assests/boat13.jpg';
+import a7 from './assests/boat133.PNG';
 
 // 2nd 
 import "react-responsive-carousel/lib/styles/carousel.min.css"; // requires a loader
@@ -51,10 +54,52 @@ export default () => {
 
                 <Carousel>
                     <div>
-                        <img src={a2} />
+                        <img src={promotional} />
+                    </div>
+                    <div>
+                        <img src={a6} />
                     </div>
                     <div>
                         <img src={a2} />
+                    </div>
+                    <div>
+                        <img src={a5} />
+                    </div>
+                    <div>
+                        <img src={a6} />
+                    </div>
+                    <div>
+                        <img src={a7} />
+                    </div>
+                    <div>
+                        <img src={promotional} />
+                    </div>
+                    <div>
+                        <img src={a6} />
+                    </div>
+                    <div>
+                        <img src={a2} />
+                    </div>
+                    <div>
+                        <img src={a5} />
+                    </div>
+                    <div>
+                        <img src={a6} />
+                    </div>
+                    <div>
+                        <img src={a2} />
+                    </div>
+                    <div>
+                        <img src={a5} />
+                    </div>
+                    <div>
+                        <img src={a6} />
+                    </div>
+                    <div>
+                        <img src={a2} />
+                    </div>
+                    <div>
+                        <img src={a5} />
                     </div>
                     <div>
                         <img src={a2} />

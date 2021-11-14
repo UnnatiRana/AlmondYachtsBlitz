@@ -60,29 +60,33 @@ export default () => {
                                     </Typography>
                                 </ListItemText>
                             </ListItem>
-
-
+                            
                             <ListItem>
                                 <ListItemText sx={{ fontFamily: 'Lato' }}>
-                                    Cruise
+                                Sea Ray
                                 </ListItemText>
                             </ListItem>
 
                             <ListItem>
                                 <ListItemText sx={{ fontFamily: 'Lato' }}>
-                                    Sail
+                                Meridian
                                 </ListItemText>
                             </ListItem>
 
                             <ListItem>
                                 <ListItemText sx={{ fontFamily: 'Lato' }}>
-                                    Fishing
+                                Serenity
                                 </ListItemText>
                             </ListItem>
-
+                            <ListItem>
+                                <ListItemText sx={{ fontFamily: 'Lato' }}>
+                                Rivieria
+                                </ListItemText>
+                            </ListItem>
 
                         </List>
                     </Grid>
+
 
 
 
@@ -112,13 +116,13 @@ export default () => {
 
                             <ListItem>
                                 <ListItemText sx={{ fontFamily: 'Lato' }}>
-                                    Discount
+                                    Discount Offer
                                 </ListItemText>
                             </ListItem>
 
                             <ListItem>
                                 <ListItemText sx={{ fontFamily: 'Lato' }}>
-                                    Returns
+                                    Return Policy
                                 </ListItemText>
                             </ListItem>
 
